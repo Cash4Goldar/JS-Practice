@@ -1,1 +1,1 @@
-# JS-Practice
+# Eloquent JS-Practice
